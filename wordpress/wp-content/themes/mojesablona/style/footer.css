@@ -1,0 +1,23 @@
+/* === FOOTER STYLES === */
+
+.site-footer {
+  background-color: #111;
+  color: #ccc;
+  text-align: center;
+  padding: 2rem 1rem;
+  border-top: 2px solid #c8102e;
+}
+
+.site-footer a {
+  color: #c8102e;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+.socials {
+  margin-top: 0.5rem;
+}
